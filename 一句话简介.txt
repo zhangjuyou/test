@@ -1,0 +1,2 @@
+This paper introduces a method for constructing a reservoir architectural parameter database (RAPDB) based on literature data extraction. It establishes a unified classification and grading system as well as a standardized data structure for the Braided River reservoir, and conducts statistical analysis on the quantitative data of different architectural units within the database.
+本文介绍了一种基于文献数据拾取的储层构型参数库构建方法，建立了统一分类分级体系和统一数据结构的辫状河储层构型参数库，并对参数库中不同构型单元定量数据进行统计分析
